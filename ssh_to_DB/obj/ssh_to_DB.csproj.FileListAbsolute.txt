@@ -1,0 +1,57 @@
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Debug\ssh_to_DB.exe
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Debug\ssh_to_DB.pdb
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Debug\Tamir.SharpSSH.dll
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Debug\Org.Mentalis.Security.dll
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Debug\DiffieHellman.dll
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Debug\ssh_to_DB.Properties.Resources.resources
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Debug\ssh_to_DB.csproj.GenerateResource.Cache
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Debug\ssh_to_DB.exe
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Debug\ssh_to_DB.pdb
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Release\ssh_to_DB.Properties.Resources.resources
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Release\ssh_to_DB.csproj.GenerateResource.Cache
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Release\ssh_to_DB.exe
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Release\ssh_to_DB.pdb
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Release\Tamir.SharpSSH.dll
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Release\Org.Mentalis.Security.dll
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Release\DiffieHellman.dll
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Release\ssh_to_DB.exe
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Release\ssh_to_DB.pdb
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Release\ssh_to_DB.Form1.resources
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Debug\ssh_to_DB.Form1.resources
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Debug\connect.mdb
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Debug\ssh_to_DB.exe.config
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Release\ssh_to_DB.exe.config
+C:\Documents and Settings\slonis\My Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Release\connect.mdb
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Debug\ssh_to_DB.exe.config
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Debug\ssh_to_DB.exe
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Debug\ssh_to_DB.Form1.resources
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Debug\ssh_to_DB.Properties.Resources.resources
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Debug\ssh_to_DB.csproj.GenerateResource.Cache
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Debug\connect.mdb
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Debug\ssh_to_DB.exe
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Debug\ssh_to_DB.pdb
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Debug\Org.Mentalis.Security.dll
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Debug\DiffieHellman.dll
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Debug\ssh_to_DB.pdb
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\x86\Debug\ssh_to_DB.exe.config
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\x86\Debug\ssh_to_DB.Form1.resources
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\x86\Debug\ssh_to_DB.Properties.Resources.resources
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\x86\Debug\ssh_to_DB.csproj.GenerateResource.Cache
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Release\ssh_to_DB.exe.config
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Release\ssh_to_DB.exe
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Release\ssh_to_DB.pdb
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Release\connect.mdb
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Release\ssh_to_DB.exe
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Release\ssh_to_DB.XmlSerializers.dll
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Release\ssh_to_DB.pdb
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Release\Org.Mentalis.Security.dll
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\bin\Release\DiffieHellman.dll
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Release\ResolveAssemblyReference.cache
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Release\ssh_to_DB.Form1.resources
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Release\ssh_to_DB.Properties.Resources.resources
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Release\ssh_to_DB.csproj.GenerateResource.Cache
+C:\Users\slonis\Documents\Visual Studio 2005\Projects\ssh_to_DB\ssh_to_DB\obj\Release\ssh_to_DB.XmlSerializers.dll

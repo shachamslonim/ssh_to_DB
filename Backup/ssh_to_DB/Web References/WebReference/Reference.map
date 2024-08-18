@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="https://10.76.10.28:7225/fapi/version3_5?xsd=1" filename="version3_5.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="https://10.76.10.28:7225/fapi/version3_5?wsdl" filename="FunctionalAPIImplService.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>

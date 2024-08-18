@@ -1,0 +1,5 @@
+#IP;SiteID;BoxID;RootPassword;RepositoryVolumename;
+10.76.5.233;ESX;1;Kashya123
+10.76.5.235;ESX;1;Kashya123
+10.76.10.148;RPA;1;q
+10.76.10.149;RPA;1;q
